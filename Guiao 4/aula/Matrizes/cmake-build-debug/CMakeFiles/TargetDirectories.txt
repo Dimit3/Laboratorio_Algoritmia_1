@@ -1,0 +1,3 @@
+C:/Users/Victor/Desktop/Projetos algoritmos/guiao 4/aula/Matrizes/cmake-build-debug/CMakeFiles/Matrizes.dir
+C:/Users/Victor/Desktop/Projetos algoritmos/guiao 4/aula/Matrizes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Victor/Desktop/Projetos algoritmos/guiao 4/aula/Matrizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

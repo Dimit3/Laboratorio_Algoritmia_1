@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Victor/Desktop/Projetos algoritmos/Guiao 2/NIB/cmake-build-debug/auxiliares.h
+
+C:/Users/Victor/Desktop/Projetos algoritmos/Guiao 2/NIB/cmake-build-debug/main.c
+auxiliares.h
+C:/Users/Victor/Desktop/Projetos algoritmos/Guiao 2/NIB/cmake-build-debug/auxiliares.h
+stdio.h
+-
+stdlib.h
+-
+

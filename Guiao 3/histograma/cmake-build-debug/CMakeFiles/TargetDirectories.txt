@@ -1,0 +1,3 @@
+C:/Users/Victor/Desktop/Projetos algoritmos/guiao 3/histograma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Victor/Desktop/Projetos algoritmos/guiao 3/histograma/cmake-build-debug/CMakeFiles/histograma.dir
+C:/Users/Victor/Desktop/Projetos algoritmos/guiao 3/histograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir

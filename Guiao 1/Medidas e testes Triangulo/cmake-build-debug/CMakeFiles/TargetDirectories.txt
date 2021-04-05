@@ -1,0 +1,3 @@
+C:/Users/Victor/Desktop/triangulo/cmake-build-debug/CMakeFiles/triangulo.dir
+C:/Users/Victor/Desktop/triangulo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Victor/Desktop/triangulo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Victor/Desktop/formula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Victor/Desktop/formula/cmake-build-debug/CMakeFiles/formula.dir
+C:/Users/Victor/Desktop/formula/cmake-build-debug/CMakeFiles/edit_cache.dir

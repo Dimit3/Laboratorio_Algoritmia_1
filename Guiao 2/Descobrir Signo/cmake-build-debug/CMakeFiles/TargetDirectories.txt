@@ -1,0 +1,3 @@
+C:/Users/Dimitri/Desktop/Projetos algoritmos/Guiao 2/signo/cmake-build-debug/CMakeFiles/signo.dir
+C:/Users/Dimitri/Desktop/Projetos algoritmos/Guiao 2/signo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dimitri/Desktop/Projetos algoritmos/Guiao 2/signo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
